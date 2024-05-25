@@ -6,7 +6,7 @@ This project uses FastAPI for creating APIs and Requests, BeautifulSoup for web 
 
 First, clone the repository to your local machine:
 
-git clone <https://github.com/goldi4ek/>
+git clone <https://github.com/goldi4ek/McD-parser>
 
 ### Prerequisites
 
